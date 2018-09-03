@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+参考にしたサイト
+
+https://qiita.com/567000/items/dde495d6a8ad1c25fa43
+
 ## Build Setup
 
 ``` bash
